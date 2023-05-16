@@ -5,12 +5,12 @@ I am a junior data analyst working in the marketing analytics team at Cyclistic,
 
 The company has 3 pricing plans which these are:
 
-Single-ride passes
-Full-day passes
-Annual memberships.
+- Single-ride passes
+- Full-day passes
+- Annual memberships.
+
 Customers who purchase single-ride or full-day passes are referred to as casual riders.
 Customers who purchase annual memberships are Cyclistic members.
-
 
 In this case study I prefer to use SQL and Tableau. 
 
